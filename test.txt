@@ -1,0 +1,5 @@
+123
+git 
+jest super
+git add "nowy plik"
+git branch -M main
